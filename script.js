@@ -27,7 +27,7 @@ document.getElementById(
   "image-body"
 ).innerHTML = `<img src="${gambar}" alt="nasgor-kampung">`;
 
-// ------------ styling -----------------
+
 gambarNasgor.style.textAlign = "center";
 gambarNasgor.style.margin = "40px auto";
 ulList.style.margin = "30px 0 0 0";
