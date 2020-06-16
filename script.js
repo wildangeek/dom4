@@ -9,7 +9,7 @@ const resep = [
   "1 sdm kecap manis",
   "1 sdm kecap asin",
   "1/2 sdt gula pasir",
-  "1/2 sdt merica,
+  "1/2 sdt merica",
 ];
 const ulList = document.createElement("ul");
 
